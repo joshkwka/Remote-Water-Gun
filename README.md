@@ -1,6 +1,6 @@
 # Remote Water Gun
 
-For this project, I CAD designed a mount for a spray bottle which allows motors to control the pitch and yaw movement of the nozzle. 
+For this project, I designed and modelled a mount for a spray bottle which allows motors to control the pitch and yaw movement of the nozzle. 
 A motor also controls the trigger so that the "water gun" can be shot remotely. 
 
 
